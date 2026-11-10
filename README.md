@@ -25,18 +25,3 @@
 ---
 
 </div>
-
-## 🚀 About Me
-
-```javascript
-const hamdan = {
-    code: ["PHP", "Python", "JavaScript", "SQL"],
-    technologies: {
-        backEnd: ["Laravel", "Flask", "RESTful API"],
-        frontEnd: ["Tailwind CSS", "HTML5", "Canvas API", "Particles.js"],
-        database: ["MySQL", "phpMyAdmin"],
-        tools: ["Git", "GitHub", "Laragon", "Hostinger"]
-    },
-    currentFocus: "Building scalable backend architectures & custom web solutions.",
-    location: "Ciamis, West Java, Indonesia"
-};
